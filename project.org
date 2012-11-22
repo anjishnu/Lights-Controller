@@ -1,0 +1,13 @@
+* Still to do:
+** TODO Autosaving
+** TODO Loading shows from inside the program
+** DONE Macros
+   CLOSED: [2011-09-03 Sat 11:33]
+** TODO Looping visualizer
+** DONE Interrupt implementation in model.
+   CLOSED: [2011-09-02 Fri 21:29]
+** TODO Looping
+** TODO Messages
+* Refactoring:
+** DONE Make the mouse event handler common for the main and preview controllers.
+   CLOSED: [2011-09-02 Fri 18:16]

@@ -1,0 +1,1028 @@
+[
+ {
+  "lights": {
+   "FIR": 100, 
+   "CSL": 100, 
+   "BC": 100, 
+   "CC": 100, 
+   "FSL": 100, 
+   "CIL": 100, 
+   "CIR": 100, 
+   "TRACKS": 0, 
+   "FC": 100, 
+   "FCOFF": 0, 
+   "FIL": 100, 
+   "CSR": 100, 
+   "RS": 0, 
+   "ONHALS": 100, 
+   "FSR": 100, 
+   "BSR": 100, 
+   "BSL": 100, 
+   "RC": 0, 
+   "OFFHALS": 100
+  }, 
+  "idno": "24", 
+  "notes": "", 
+  "links": {
+   "next": "25", 
+   "previous": "23"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 100, 
+   "CSL": 0, 
+   "BC": 100, 
+   "CC": 0, 
+   "FSL": 100, 
+   "CIL": 100, 
+   "CIR": 100, 
+   "FSR": 100, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 100, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 100, 
+   "TRACKS": 0, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 100
+  }, 
+  "idno": "25", 
+  "notes": "blue", 
+  "links": {
+   "next": "26", 
+   "previous": "24"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 0, 
+   "CSL": 0, 
+   "BC": 0, 
+   "CC": 0, 
+   "FSL": 0, 
+   "CIL": 0, 
+   "CIR": 0, 
+   "TRACKS": 0, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 0, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 0, 
+   "FSR": 0, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 0
+  }, 
+  "idno": "26", 
+  "notes": "", 
+  "links": {
+   "next": "27", 
+   "previous": "25"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 0, 
+   "CSL": 0, 
+   "BC": 0, 
+   "CC": 0, 
+   "FSL": 0, 
+   "CIL": 0, 
+   "CIR": 0, 
+   "FSR": 0, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 0, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 0, 
+   "TRACKS": 0, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 0
+  }, 
+  "idno": "27", 
+  "notes": "", 
+  "links": {
+   "next": "28", 
+   "previous": "26"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 0, 
+   "CSL": 0, 
+   "BC": 0, 
+   "CC": 0, 
+   "FSL": 0, 
+   "CIL": 0, 
+   "CIR": 0, 
+   "TRACKS": 0, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 0, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 75, 
+   "FSR": 0, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 0
+  }, 
+  "idno": "20", 
+  "notes": "", 
+  "links": {
+   "next": "21", 
+   "previous": "19"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 100, 
+   "CSL": 0, 
+   "BC": 0, 
+   "CC": 100, 
+   "FSL": 0, 
+   "CIL": 0, 
+   "CIR": 0, 
+   "FSR": 0, 
+   "FC": 100, 
+   "FCOFF": 0, 
+   "FIL": 100, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 0, 
+   "TRACKS": 0, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 0
+  }, 
+  "idno": "21", 
+  "notes": "red-80 blue-70", 
+  "links": {
+   "next": "22", 
+   "previous": "20"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 0, 
+   "CSL": 0, 
+   "BC": 0, 
+   "CC": 0, 
+   "FSL": 0, 
+   "CIL": 0, 
+   "CIR": 0, 
+   "TRACKS": 0, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 0, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 0, 
+   "FSR": 0, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 0
+  }, 
+  "idno": "22", 
+  "notes": "r-80 b-70", 
+  "links": {
+   "next": "23", 
+   "previous": "21"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 100, 
+   "CSL": 0, 
+   "BC": 0, 
+   "CC": 100, 
+   "FSL": 100, 
+   "CIL": 100, 
+   "CIR": 100, 
+   "FSR": 100, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 100, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 100, 
+   "TRACKS": 0, 
+   "BSR": 100, 
+   "BSL": 100, 
+   "RC": 0, 
+   "OFFHALS": 100
+  }, 
+  "idno": "23", 
+  "notes": "", 
+  "links": {
+   "next": "24", 
+   "previous": "22"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 0, 
+   "CSL": 0, 
+   "BC": 0, 
+   "CC": 0, 
+   "FSL": 0, 
+   "CIL": 0, 
+   "CIR": 0, 
+   "TRACKS": 0, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 0, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 0, 
+   "FSR": 0, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 0
+  }, 
+  "idno": "28", 
+  "notes": "", 
+  "links": {
+   "next": "29", 
+   "previous": "27"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 0, 
+   "CSL": 0, 
+   "BC": 0, 
+   "CC": 0, 
+   "FSL": 0, 
+   "CIL": 0, 
+   "CIR": 0, 
+   "FSR": 0, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 0, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 0, 
+   "TRACKS": 0, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 0
+  }, 
+  "idno": "29", 
+  "notes": "", 
+  "links": {
+   "previous": "28", 
+   "next": "30"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 0, 
+   "CSL": 0, 
+   "BC": 0, 
+   "CC": 0, 
+   "FSL": 0, 
+   "CIL": 0, 
+   "CIR": 0, 
+   "FSR": 0, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 0, 
+   "CSR": 0, 
+   "RS": 100, 
+   "ONHALS": 0, 
+   "TRACKS": 100, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 100, 
+   "OFFHALS": 0
+  }, 
+  "idno": "1", 
+  "notes": "", 
+  "links": {
+   "next": "2", 
+   "previous": "0"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "BSL": 100, 
+   "ONHALS": 100, 
+   "BSR": 100, 
+   "BC": 100
+  }, 
+  "idno": "0", 
+  "notes": "", 
+  "links": {
+   "next": "1"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 0, 
+   "CSL": 0, 
+   "BC": 0, 
+   "CC": 0, 
+   "FSL": 0, 
+   "CIL": 0, 
+   "CIR": 0, 
+   "FSR": 0, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 0, 
+   "CSR": 0, 
+   "RS": 100, 
+   "ONHALS": 0, 
+   "TRACKS": 100, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 100, 
+   "OFFHALS": 0
+  }, 
+  "idno": "3", 
+  "notes": "", 
+  "links": {
+   "next": "4", 
+   "previous": "2"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 0, 
+   "CSL": 0, 
+   "BC": 100, 
+   "CC": 0, 
+   "FSL": 0, 
+   "CIL": 0, 
+   "CIR": 0, 
+   "TRACKS": 0, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 0, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 75, 
+   "FSR": 0, 
+   "BSR": 100, 
+   "BSL": 100, 
+   "RC": 0, 
+   "OFFHALS": 0
+  }, 
+  "idno": "2", 
+  "notes": "", 
+  "links": {
+   "next": "3", 
+   "previous": "1"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 0, 
+   "CSL": 0, 
+   "BC": 0, 
+   "CC": 0, 
+   "FSL": 0, 
+   "CIL": 0, 
+   "CIR": 0, 
+   "FSR": 0, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 0, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 75, 
+   "TRACKS": 0, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 0
+  }, 
+  "idno": "5", 
+  "notes": "", 
+  "links": {
+   "next": "6", 
+   "previous": "4"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 0, 
+   "CSL": 0, 
+   "BC": 0, 
+   "CC": 0, 
+   "FSL": 0, 
+   "CIL": 0, 
+   "CIR": 0, 
+   "TRACKS": 100, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 0, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 75, 
+   "FSR": 0, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 0
+  }, 
+  "idno": "4", 
+  "notes": "", 
+  "links": {
+   "next": "5", 
+   "previous": "3"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 100, 
+   "CSL": 100, 
+   "BC": 100, 
+   "CC": 100, 
+   "FSL": 100, 
+   "CIL": 100, 
+   "CIR": 100, 
+   "FSR": 100, 
+   "FC": 100, 
+   "FCOFF": 0, 
+   "FIL": 100, 
+   "CSR": 100, 
+   "RS": 0, 
+   "ONHALS": 100, 
+   "TRACKS": 0, 
+   "BSR": 100, 
+   "BSL": 100, 
+   "RC": 0, 
+   "OFFHALS": 100
+  }, 
+  "idno": "7", 
+  "notes": "", 
+  "links": {
+   "next": "8", 
+   "previous": "6"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 100, 
+   "CSL": 100, 
+   "BC": 100, 
+   "CC": 0, 
+   "FSL": 0, 
+   "CIL": 0, 
+   "CIR": 0, 
+   "TRACKS": 0, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 100, 
+   "CSR": 100, 
+   "RS": 0, 
+   "ONHALS": 75, 
+   "FSR": 0, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 75
+  }, 
+  "idno": "6", 
+  "notes": "", 
+  "links": {
+   "next": "7", 
+   "previous": "5"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 100, 
+   "CSL": 100, 
+   "BC": 100, 
+   "CC": 100, 
+   "FSL": 100, 
+   "CIL": 100, 
+   "CIR": 100, 
+   "FSR": 100, 
+   "FC": 100, 
+   "FCOFF": 0, 
+   "FIL": 100, 
+   "CSR": 100, 
+   "RS": 0, 
+   "ONHALS": 100, 
+   "TRACKS": 100, 
+   "BSR": 100, 
+   "BSL": 100, 
+   "RC": 0, 
+   "OFFHALS": 100
+  }, 
+  "idno": "9", 
+  "notes": "", 
+  "links": {
+   "next": "10", 
+   "previous": "8"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 0, 
+   "CSL": 0, 
+   "BC": 0, 
+   "CC": 0, 
+   "FSL": 0, 
+   "CIL": 0, 
+   "CIR": 0, 
+   "TRACKS": 0, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 0, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 100, 
+   "FSR": 0, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 100
+  }, 
+  "idno": "8", 
+  "notes": "", 
+  "links": {
+   "next": "9", 
+   "previous": "7"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "ONHALS": 100, 
+   "OFFHALS": 100
+  }, 
+  "idno": "hals", 
+  "notes": "", 
+  "links": {
+   "next": "1", 
+   "previous": "0"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 100, 
+   "CSL": 0, 
+   "BC": 0, 
+   "CC": 0, 
+   "FSL": 100, 
+   "CIL": 0, 
+   "CIR": 0, 
+   "TRACKS": 0, 
+   "FC": 100, 
+   "FCOFF": 0, 
+   "FIL": 100, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 0, 
+   "FSR": 100, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 50
+  }, 
+  "idno": "i0", 
+  "notes": "", 
+  "links": {
+   "next": "17", 
+   "previous": "16"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 0, 
+   "CSL": 0, 
+   "BC": 0, 
+   "CC": 0, 
+   "FSL": 0, 
+   "CIL": 0, 
+   "CIR": 0, 
+   "FSR": 0, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 0, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 0, 
+   "TRACKS": 0, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 0
+  }, 
+  "idno": "interrupt", 
+  "notes": "", 
+  "links": {
+   "next": -1
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 0, 
+   "CSL": 0, 
+   "BC": 100, 
+   "CC": 100, 
+   "FSL": 0, 
+   "CIL": 100, 
+   "CIR": 100, 
+   "FSR": 0, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 0, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 0, 
+   "TRACKS": 0, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 0
+  }, 
+  "idno": "11", 
+  "notes": "", 
+  "links": {
+   "next": "12", 
+   "previous": "10"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 0, 
+   "CSL": 0, 
+   "BC": 0, 
+   "CC": 0, 
+   "FSL": 0, 
+   "CIL": 0, 
+   "CIR": 0, 
+   "TRACKS": 0, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 0, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 100, 
+   "FSR": 0, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 100
+  }, 
+  "idno": "10", 
+  "notes": "", 
+  "links": {
+   "next": "11", 
+   "previous": "9"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 0, 
+   "CSL": 0, 
+   "BC": 0, 
+   "CC": 0, 
+   "FSL": 0, 
+   "CIL": 0, 
+   "CIR": 0, 
+   "FSR": 0, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 0, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 0, 
+   "TRACKS": 0, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 0
+  }, 
+  "idno": "13", 
+  "notes": "strobe", 
+  "links": {
+   "next": "15", 
+   "previous": "12"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 100, 
+   "CSL": 100, 
+   "BC": 100, 
+   "CC": 100, 
+   "FSL": 100, 
+   "CIL": 100, 
+   "CIR": 100, 
+   "TRACKS": 0, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 100, 
+   "CSR": 100, 
+   "RS": 0, 
+   "ONHALS": 75, 
+   "FSR": 100, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 100
+  }, 
+  "idno": "12", 
+  "notes": "", 
+  "links": {
+   "next": "13", 
+   "previous": "11"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 0, 
+   "CSL": 0, 
+   "BC": 100, 
+   "CC": 100, 
+   "FSL": 0, 
+   "CIL": 100, 
+   "CIR": 100, 
+   "FSR": 0, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 0, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 0, 
+   "TRACKS": 0, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 50
+  }, 
+  "idno": "15", 
+  "notes": "", 
+  "links": {
+   "next": "16", 
+   "previous": "13"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 0, 
+   "CSL": 0, 
+   "BC": 100, 
+   "CC": 100, 
+   "FSL": 0, 
+   "CIL": 100, 
+   "CIR": 100, 
+   "TRACKS": 0, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 0, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 0, 
+   "FSR": 0, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 0
+  }, 
+  "idno": "14", 
+  "notes": "", 
+  "links": {
+   "next": "15", 
+   "previous": "13"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 0, 
+   "CSL": 0, 
+   "BC": 0, 
+   "CC": 0, 
+   "FSL": 0, 
+   "CIL": 0, 
+   "CIR": 0, 
+   "FSR": 0, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 0, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 100, 
+   "TRACKS": 0, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 100
+  }, 
+  "idno": "17", 
+  "notes": "", 
+  "links": {
+   "next": "18", 
+   "previous": "i0"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 100, 
+   "CSL": 100, 
+   "BC": 100, 
+   "CC": 100, 
+   "FSL": 0, 
+   "CIL": 100, 
+   "CIR": 100, 
+   "TRACKS": 0, 
+   "FC": 100, 
+   "FCOFF": 0, 
+   "FIL": 100, 
+   "CSR": 100, 
+   "RS": 0, 
+   "ONHALS": 0, 
+   "FSR": 0, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 0
+  }, 
+  "idno": "16", 
+  "notes": "", 
+  "links": {
+   "next": "i0", 
+   "previous": "15"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 100, 
+   "CSL": 100, 
+   "BC": 100, 
+   "CC": 100, 
+   "FSL": 100, 
+   "CIL": 100, 
+   "CIR": 100, 
+   "FSR": 100, 
+   "FC": 100, 
+   "FCOFF": 0, 
+   "FIL": 100, 
+   "CSR": 100, 
+   "RS": 0, 
+   "ONHALS": 100, 
+   "TRACKS": 0, 
+   "BSR": 100, 
+   "BSL": 100, 
+   "RC": 0, 
+   "OFFHALS": 100
+  }, 
+  "idno": "19", 
+  "notes": "", 
+  "links": {
+   "next": "20", 
+   "previous": "18"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 100, 
+   "CSL": 0, 
+   "BC": 0, 
+   "CC": 100, 
+   "FSL": 100, 
+   "CIL": 0, 
+   "CIR": 0, 
+   "TRACKS": 0, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 100, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 0, 
+   "FSR": 100, 
+   "BSR": 100, 
+   "BSL": 100, 
+   "RC": 0, 
+   "OFFHALS": 100
+  }, 
+  "idno": "18", 
+  "notes": "", 
+  "links": {
+   "next": "19", 
+   "previous": "17"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 0, 
+   "CSL": 0, 
+   "BC": 0, 
+   "CC": 0, 
+   "FSL": 0, 
+   "CIL": 0, 
+   "CIR": 0, 
+   "FSR": 0, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 0, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 0, 
+   "TRACKS": 0, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 0
+  }, 
+  "idno": "31", 
+  "notes": "", 
+  "links": {
+   "previous": "30", 
+   "next": -1
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {
+   "FIR": 0, 
+   "CSL": 0, 
+   "BC": 0, 
+   "CC": 0, 
+   "FSL": 0, 
+   "CIL": 0, 
+   "CIR": 0, 
+   "TRACKS": 0, 
+   "FC": 0, 
+   "FCOFF": 0, 
+   "FIL": 0, 
+   "CSR": 0, 
+   "RS": 0, 
+   "ONHALS": 0, 
+   "FSR": 0, 
+   "BSR": 0, 
+   "BSL": 0, 
+   "RC": 0, 
+   "OFFHALS": 0
+  }, 
+  "idno": "30", 
+  "notes": "", 
+  "links": {
+   "previous": "29", 
+   "next": "31"
+  }, 
+  "time": -1
+ }, 
+ {
+  "lights": {}, 
+  "idno": "blackout", 
+  "notes": "", 
+  "links": {
+   "next": "1", 
+   "previous": "0"
+  }, 
+  "time": -1
+ }
+]
